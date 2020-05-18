@@ -1,0 +1,15 @@
+{
+    “name”: taahirisaacs/gravity-forms-plugin”,
+    “description”: “Gravity forms”,
+    “keywords”: [“wordpress”, “plugin”],
+    “homepage”: “https://github.com/taahirisaacs/gravity-forms-plugin”,
+    “authors”: [
+      {
+        “name”: “Gravity Forms”
+      }
+    ],
+    “type”: “wordpress-plugin”,
+    “require”: {
+      “php”: “>=7.1”
+    }
+  }
