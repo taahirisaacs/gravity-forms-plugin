@@ -1,15 +1,16 @@
 {
-  “name”: taahirisaacs/gravity-forms-plugin”,
-  “description”: “Gravity forms”,
-  “keywords”: [“wordpress”, “plugin”],
-  “homepage”: “https://github.com/taahirisaacs/gravity-forms-plugin”,
-  “authors”: [
+  "name": "taahirisaacs/gravity-forms-plugin",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/taahirisaacs/gravity-forms-plugin",
+  "authors": [
     {
-      “name”: “Gravity Forms”
+      "name": "Gravity Forms",
+      "homepage": "https://www.gravityforms.com/"
     }
   ],
-  “type”: “wordpress-plugin”,
-  “require”: {
-      “php”: “>=7.1”
-    }
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
 }
